@@ -6,9 +6,9 @@ import { Dialog, DialogContent, DialogHeader, DialogTitle } from "@/components/u
 
 const products = {
   Saries: [
-    { id: 1, name: "Silk Sari", price: 2500, image: "/images/silk_sari.jpg" },
-    { id: 2, name: "Cotton Sari", price: 1800, image: "/images/cotton_sari.jpg" },
-    { id: 5, name: "Banarasi Sari", price: 3000, image: "/images/banarasi_sari.jpg" },
+    { id: 1, name: "Silk Sari", price: 2500, image: "/silk_sari.jpg" },
+    { id: 2, name: "Cotton Sari", price: 1800, image: "/cotton_sari.jpg" },
+    { id: 5, name: "Banarasi Sari", price: 3000, image: "/banarasi_sari.jpg" },
     { id: 6, name: "Kanjivaram Sari", price: 4500, image: "/images/kanjivaram_sari.jpg" },
     { id: 9, name: "Chiffon Sari", price: 2800, image: "/images/chiffon_sari.jpg" },
   ],
